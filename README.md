@@ -1,3 +1,3 @@
 # ra-git-training
 
-Rikkei Academy lab
+Rikkei Academy lab 2022
